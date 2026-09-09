@@ -1,8 +1,7 @@
 # Seasonal Agriculture Performance Analysis
 
 **VOIS AICTE Batch1 2026-2027 — Major Project**
-Track: AI-Assisted Full Stack Web Development (Data Analytics Major Project)
-Student: Rishav
+Student: Rishav Kumar
 
 ## Overview
 
